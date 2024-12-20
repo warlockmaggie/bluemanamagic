@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Blog
 sitemap:
     changefreq: monthly
 body_classes: 'header-dark header-transparent'
@@ -11,7 +11,8 @@ show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
 content:
-    items: '@self.children'
+    items:
+        - '@self.children'
     limit: 6
     order:
         by: date
@@ -22,6 +23,7 @@ feed:
     description: 'Sample Blog Description'
     limit: 10
 pagination: true
+media_order: 6196567.jpg
 ---
 
-# BluemanaMagic
+# BlueManaMagic
