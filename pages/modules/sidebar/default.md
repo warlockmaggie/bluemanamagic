@@ -2,10 +2,13 @@
 routable: false
 ---
 
-#### Some Text Widget
+### About Me ###
+About me...
 
-You can **edit** this by modifying the `modules/sidebar/default.md` page. 
+Well, not much to be said - I'm a wife and parent, member of the LGBTQIA+ community, certified computer nerd, and gaming geek!
 
-To **reorder** things in the sidebar you need to modify the `partials/sidebar.html.twig` template file.
+I also enjoy writing and sharing my thoughts on various things, mostly to do with geekery.
+
+To read is to learn, to write is to create, to love is to live!
 
 
