@@ -1,1 +1,0 @@
-redirect for my blog
