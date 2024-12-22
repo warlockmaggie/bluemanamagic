@@ -12,7 +12,6 @@ content:
     url_taxonomy_filters: true
 ---
 
-
 The ruling class of Innistrad makes their debut in this deck! The vampires of the houses Falkenrath, Markov, and Stromkirk all are here to demonstrate their dominance and nobility.
 
 This deck is a classically aggro deck, with a strong focus on getting past your opponent's defenses! You see, many of these vampires will feed on your opponent, gaining +1/+1 counters every time they deal combat damage to a player.
