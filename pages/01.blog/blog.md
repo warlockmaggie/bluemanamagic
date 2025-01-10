@@ -24,6 +24,7 @@ feed:
     limit: 10
 pagination: true
 media_order: 6196567.jpg
+never_cache_twig: true
 ---
 
 # BlueManaMagic
