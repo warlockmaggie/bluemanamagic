@@ -1,5 +1,7 @@
 ---
 routable: false
+content:
+    items: '@self.modular'
 ---
 
 ### About Me ###
