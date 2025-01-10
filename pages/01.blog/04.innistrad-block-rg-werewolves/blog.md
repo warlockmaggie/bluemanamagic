@@ -10,6 +10,11 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
+taxonomy:
+    category:
+        - decklist
+    tag:
+        - 'Block Duel Deck'
 ---
 
 _"They hear the howls and know fear" - Saladin, Destiny 2_
