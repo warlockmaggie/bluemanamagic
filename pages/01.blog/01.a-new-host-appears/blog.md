@@ -13,9 +13,8 @@ show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
 process:
-    twig: true
-    markdown: false
-twig_first: true
+    markdown: true
+    twig: false
 ---
 
 Got some help from my lovely girlfriend to get this site hosted somewhere new! On one hand, I have a lot more control over what happens. Conversely, I have to manually migrate stuff over from the old site. Oh well, hopefully new posts can happen more regularly. 😅
