@@ -10,6 +10,11 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
+taxonomy:
+    category:
+        - decklist
+    tag:
+        - 'Block Duel Deck'
 ---
 
 The second deck of the ten Innistrad block decks features the ghoulish monstrosities of Diregraf and Havengul! As with most tribal decks, you're going to look for ways to synergize the tandem concepts of filling your graveyard and consuming it for additional costs for creatures like <span class="mtgcard">Skaab Goliath</span> or <span class="mtgcard">Stitched Drake.</span>

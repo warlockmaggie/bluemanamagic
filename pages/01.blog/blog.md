@@ -20,7 +20,7 @@ content:
     pagination: true
     url_taxonomy_filters: true
 feed:
-    description: 'Sample Blog Description'
+    description: 'A blog about Magic the Gathering'
     limit: 10
 pagination: true
 media_order: 6196567.jpg

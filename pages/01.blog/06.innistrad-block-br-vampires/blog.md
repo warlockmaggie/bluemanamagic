@@ -10,6 +10,11 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
+taxonomy:
+    category:
+        - decklist
+    tag:
+        - 'Block Duel Deck'
 ---
 
 The ruling class of Innistrad makes their debut in this deck! The vampires of the houses Falkenrath, Markov, and Stromkirk all are here to demonstrate their dominance and nobility.

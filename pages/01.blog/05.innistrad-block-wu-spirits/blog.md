@@ -10,6 +10,11 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
+taxonomy:
+    category:
+        - decklist
+    tag:
+        - 'Block Duel Deck'
 ---
 
 Deck #4 is frightfully filled with solemn spirits who seek to scare!
