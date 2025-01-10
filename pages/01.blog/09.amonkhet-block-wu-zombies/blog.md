@@ -23,33 +23,33 @@ This White/Blue deck focuses on a combination of the Embalm and Eternalize mecha
 Your opponent(s) will be hard pressed to prevent your win when death is an intended part of your game plan!
 
 <div class="deck-list">
-1 Adorned Pouncer
-1 Angel of Sanctions
-2 Anointer Priest
-2 Aven Initiate
-2 Aven Wind Guide
-1 Champion of Wits
-2 Cradle of the Accursed
-2 Desert of the True
-1 Embalmer's Tools
-2 Evolving Wilds
-1 Farm // Market
-1 Glyph Keeper
-2 Illusory Wrappings
-2 In Oketra's Name
-8 Island
-2 Oketra's Attendant
-10 Plains
-2 Proven Combatant
-2 Sacred Cat
-1 Sinuous Striker
-2 Steadfast Sentinel
-1 Sunscourge Champion
-2 Supply Caravan
-1 Temmet, Vizier of Naktamun
-1 Time to Reflect
-1 Unconventional Tactics
-2 Unwavering Initiate
-1 Vizier of Many Faces
-2 Vizier of the Anointed
+    1 Adorned Pouncer
+    1 Angel of Sanctions
+    2 Anointer Priest
+    2 Aven Initiate
+    2 Aven Wind Guide
+    1 Champion of Wits
+    2 Cradle of the Accursed
+    2 Desert of the True
+    1 Embalmer's Tools
+    2 Evolving Wilds
+    1 Farm // Market
+    1 Glyph Keeper
+    2 Illusory Wrappings
+    2 In Oketra's Name
+    8 Island
+    2 Oketra's Attendant
+    10 Plains
+    2 Proven Combatant
+    2 Sacred Cat
+    1 Sinuous Striker
+    2 Steadfast Sentinel
+    1 Sunscourge Champion
+    2 Supply Caravan
+    1 Temmet, Vizier of Naktamun
+    1 Time to Reflect
+    1 Unconventional Tactics
+    2 Unwavering Initiate
+    1 Vizier of Many Faces
+    2 Vizier of the Anointed
  </div>
