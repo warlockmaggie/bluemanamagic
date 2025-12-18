@@ -17,7 +17,7 @@ content:
 ---
 
 
-Normally, you want to avoid losing cards where possible, but this Blue/Black deck focuses on a combination of Cycling and Discard to turn your game into a battle of attrition! <<span class="mtgcard">Faith of the Devoted and <span class="mtgcard">Archfiend of Ifnir</span> all provide incredible value for your card-based trickery, while cards like <span card="mtgcard">Sacred Excavation</span> and <span class="mtgcard">Abandoned Sarcophagus</span> allow you to bring back your best cycling cards for another go!
+Normally, you want to avoid losing cards where possible, but this Blue/Black deck focuses on a combination of Cycling and Discard to turn your game into a battle of attrition! <span class="mtgcard">Faith of the Devoted and <span class="mtgcard">Archfiend of Ifnir</span> all provide incredible value for your card-based trickery, while cards like <span card="mtgcard">Sacred Excavation</span> and <span class="mtgcard">Abandoned Sarcophagus</span> allow you to bring back your best cycling cards for another go!
 
 <div class="deck-list">
 1 Abandoned Sarcophagus
